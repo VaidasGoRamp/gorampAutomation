@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//input[@placeholder='e.g. Viking st. 340-9']"
+}

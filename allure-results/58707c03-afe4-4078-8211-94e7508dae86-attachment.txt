@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".btn.btn-link.icon.has-tooltip[href='/app/settings']"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[class='col order-col][class='loading-column'][class='px-xs-0']"
+}

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[class='col order-col loading-column px-xs-0'] div[class='row mb-3'] button:nth-child(2)"
+}

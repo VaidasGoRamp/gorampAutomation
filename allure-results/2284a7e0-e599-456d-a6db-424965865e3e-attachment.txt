@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div[class='select-options'] div:nth-child(2)"
+}

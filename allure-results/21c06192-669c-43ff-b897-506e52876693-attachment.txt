@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "Unable to locate element: //div[contains(@class, \"row\")]//div[contains(@class, \"select-container\") and contains(@class, \"form-control\") and contains(@class, \"select-searchable\")][2]",
+  "stacktrace": "RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8\nWebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:188:5\nNoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:506:5\ndom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:132:16\n"
+}
